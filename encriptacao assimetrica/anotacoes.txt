@@ -1,0 +1,10 @@
+O método crypto.generateKeyPairSync() também funciona como uma interface do módulo crypto. Porém, cria um novo e assimétrico par de chaves do tipo especificado que retorna um objeto com uma private key e public key que pode ser uma string, buffer ou KeyObject
+
+crypto.generateKeyPairSync( type, options)
+
+
+O método aceita dois parâmetros, que são:
+
+type (tipo): É do tipo string e deve incluir um ou mais dos seguintes algoritmos: ‘rsa’, ‘dsa’, ‘ec’, ‘ed25519’, ‘ed448’, ‘x25519’, ‘x448’, ou ‘dh’.
+
+options (opções): É do tipo objeto. Ele pode conter os parâmetros modulusLength; publicExponent; divisorLength; namedCurve; prime; primeLength; generator; groupName; publicKeyEncoding; privateKeyEncoding.
