@@ -1,0 +1,20 @@
+Para se defender do forca bruta pode ser implementado
+
+Bloqueio por tempo 
+Contrasenhas 
+Bloqueio de usuario devido x tentativas
+Politica de senha
+
+Para se defender do dicionario pode ser implementado
+
+Bloqueio por tempo 
+Contrasenhas 
+Bloqueio de usuario devido x tentativas
+Politica de senha
+
+
+Para se defnder do rainbowTable
+
+Utilizar senha com SAL / chave 
+
+
